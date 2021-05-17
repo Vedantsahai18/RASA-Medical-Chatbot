@@ -11,7 +11,7 @@ A Medical bot with emotional analysis and casual chat
 
 # Description
 
-There is a wave of emotional unstabiltiy among people who are on a downward spiral in life or are going through hard times. We have developed a chat companion to make the user feel better and to track analysis of users behaviour. Chatbot as a compnion can provide you factual informatio
+There is a wave of emotional unstabiltiy among people who are on a downward spiral in life or are going through hard times. We have developed a chat companion to make the user feel better and to track analysis of users behaviour. Chatbot as a compnion can provide you factual information
 
 This project as a chatbot is a part of our complete project 
 

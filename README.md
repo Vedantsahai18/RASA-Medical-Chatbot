@@ -105,8 +105,8 @@ docker container inspect <container-id>
 
 # Contributors
 
-* Elvis Dsouza [@ejson03](https://github.com/ejson03)
 * Vedant Sahai [@Vedantsahai18](https://github.com/Vedantsahai18)
+* Elvis Dsouza [@ejson03](https://github.com/ejson03)
 * Pratik Chowdhury [@pratikpc](https://github.com/pratikpc)
 
 # License
